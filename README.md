@@ -395,7 +395,7 @@ font-weight:bold;
 
 </form>
 
-<a class="volver" href="readme.html">← Volver a la página principal</a>
+<a class="volver" href="Pagina.html">← Volver a la página principal</a>
 
 </div>
 
